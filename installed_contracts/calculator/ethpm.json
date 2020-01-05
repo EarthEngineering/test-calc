@@ -1,0 +1,20 @@
+{
+  "authors": [
+    "Gabriel Cardona <gabriel.earth.engineering@earth.engineering>"
+  ],
+  "license": "MIT",
+  "description": "Simple calculator to perform addition, subtraction, multiplication, division and modulo between two numbers",
+  "keywords": [
+    "ethereum",
+    "calculator"
+  ],
+  "links": {},
+  "sources": [
+    "./contracts/Calculator.sol",
+    "./contracts/Migrations.sol"
+  ],
+  "dependencies": {},
+  "manifest_version": 1,
+  "package_name": "calculator",
+  "version": "0.1.2"
+}
